@@ -11,6 +11,10 @@
   <img width=600px height=300px src="image.gif" alt="screenshot"></a>
 </p>
 
+### Test
+
+You can access [here](https://whacka-game.netlify.app/) (is not responsive yet)
+
 ### Author
 ---
  <img style="border-radius: 50%" src="https://avatars2.githubusercontent.com/u/68348319?s=400&u=e7faae76a279d2cbe5d725724fce5e85b0f88b44&v=4" width="100px;" alt=""/>
